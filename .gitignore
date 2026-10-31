@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+vc.b64
+claude-check.txt
+new.gz
